@@ -17,3 +17,5 @@
 15. [Reverse](./Reverse/)
 16. [Safe Opener 2](./Safe%20Opener%202/)
 17. [GDB baby step 1](./GDB%20baby%20step%201/)
+18. [GDB baby step 2](./GDB%20baby%20step%202/)
+
